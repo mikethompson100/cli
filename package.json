@@ -18,5 +18,6 @@
   "homepage": "https://github.com/mikethompson100/cli#readme",
   "dependencies": {
     "exceljs": "^4.4.0"
-  }
+  },
+  "type" : "module"
 }
